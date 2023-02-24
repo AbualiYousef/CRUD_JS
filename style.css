@@ -1,0 +1,53 @@
+.add-product {
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+    box-shadow: 5px 5px 21px #dcdcdc;
+    text-align: center;
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.btn-outline-info {
+    color: #0dcaf0;
+    border-color: #0dcaf0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.btn-outline-danger {
+    color: #dc3545;
+    border-color: #dc3545;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.search {
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+    border: #75f7c1 solid 2px;
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+    margin-bottom: 15px;
+    ;
+}
